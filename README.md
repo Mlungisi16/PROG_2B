@@ -158,7 +158,6 @@ Test the API endpoints.
 Document any necessary deviations from the original plan.
 11. GitHub Submission
 
-All planning documents must be committed to the GitHub repository inside the /docs folder before API/application code is written for Part 2.
 
 
 
