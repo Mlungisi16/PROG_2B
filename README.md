@@ -18,3 +18,15 @@ Allow organisers and administrators to manage events and categories.
 Record and manage race results.
 Manage registrations and payments.
 Store race locations, organisers, and sponsors.
+
+3. Planning Documents
+
+All planning documents are stored in the /docs folder and must be completed before application/API implementation.
+
+ERD
+
+The Entity Relationship Diagram defines the database entities, attributes, primary keys, foreign keys, relationships, and cardinalities.
+
+File:
+
+/docs/Race_Day_ERD.pdf
