@@ -40,3 +40,12 @@ The API Endpoint Plan defines the REST API routes, HTTP methods, descriptions, r
 File:
 
 
+SQL Database Script
+
+The SQL script creates the complete SQL Server database, tables, constraints, relationships, and sample data.
+
+File:
+
+/docs/Race_Day.sql
+
+
