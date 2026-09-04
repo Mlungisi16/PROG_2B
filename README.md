@@ -30,3 +30,13 @@ The Entity Relationship Diagram defines the database entities, attributes, prima
 File:
 
 /docs/Race_Day_ERD.pdf
+
+
+
+API Endpoint Plan
+
+The API Endpoint Plan defines the REST API routes, HTTP methods, descriptions, required roles, request bodies, and expected responses.
+
+File:
+
+
