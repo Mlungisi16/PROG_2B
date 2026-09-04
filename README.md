@@ -152,11 +152,7 @@ Analyse the system requirements.
 Design the database ERD.
 Plan all API endpoints.
 Create the SQL Server database script.
-Commit all planning documents to the /docs folder.
-Implement the API according to the endpoint plan.
-Test the API endpoints.
-Document any necessary deviations from the original plan.
-11. GitHub Submission
+
 
 
 
