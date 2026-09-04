@@ -160,6 +160,6 @@ Document any necessary deviations from the original plan.
 
 All planning documents must be committed to the GitHub repository inside the /docs folder before API/application code is written for Part 2.
 
-The final implementation should remain consistent with the approved planning documents.
+
 
 
